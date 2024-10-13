@@ -21,3 +21,7 @@ If you would like to contact me, consider doing the following:
 - Email me (should be listed on my GitHub profile)
 
 You can message me if you would like to have someone to talk to, you would like to pay me for a plugin/client for Minecraft.
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GavinReidCodes&layout=compact)
+
+[![Gavin's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=GavinReidCodes)](https://github.com/anuraghazra/github-readme-stats)
